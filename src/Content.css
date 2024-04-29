@@ -1,0 +1,116 @@
+.content{
+    height: 95vh;
+    width: 100%;
+    background-color: black;
+    padding-top: 5%;
+}
+.one{
+    border: 1px solid white;
+    border-radius: 20px;
+    box-sizing: content-box;
+    width: 30%;
+    margin-left: 15%;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+.one img{
+    margin-left: 10%;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.one .header{
+    margin-top: -50px;
+    margin-left: 28%;
+    font-size: 22px;
+    padding-bottom: 20px;
+} 
+.one p{
+    font-size: 10px;
+    text-align: left;
+    margin-left: 5%;
+    padding-left: 30px;
+    margin-right: 22px;
+}
+.two{
+    border: 1px solid white;
+    border-radius: 20px;
+    box-sizing: content-box;
+    width: 30%;
+    display: inline-block;
+    margin-left: 10%;
+    padding-bottom: 10px;
+}
+.two p{
+    font-size: 10px;
+    text-align: left;
+    margin-left: 5%;
+    padding-left: 30px;
+    margin-right: 22px;
+}
+.two img{
+    margin-left: 10%;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.two .header{
+    margin-top: -50px;
+    margin-left: 28%;
+    font-size: 22px;
+    padding-bottom: 20px;
+} 
+.three{
+    border: 1px solid white;
+    border-radius: 20px;
+    box-sizing: content-box;
+    width: 30%;
+    display: inline-block;
+    margin-left: 15%;
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
+.three p{
+    font-size: 10px;
+    text-align: left;
+    margin-left: 5%;
+    padding-left: 30px;
+    margin-right: 22px;
+}
+.three img{
+    margin-left: 10%;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.three .header{
+    margin-top: -50px;
+    margin-left: 28%;
+    font-size: 22px;
+    padding-bottom: 20px;
+} 
+.four{
+    border: 1px solid white;
+    border-radius: 20px;
+    box-sizing: content-box;
+    width: 30%;
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
+.four p{
+    font-size: 10px;
+    text-align: left;
+    margin-left: 5%;
+    padding-left: 30px;
+    margin-right: 22px;
+}
+.four img{
+    margin-left: 10%;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.four .header{
+    margin-top: -50px;
+    margin-left: 28%;
+    font-size: 22px;
+    padding-bottom: 20px;
+} 
